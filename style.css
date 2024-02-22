@@ -1,0 +1,41 @@
+html {
+  background-color: grey;
+}
+
+body {
+  width: 700px;
+  margin: 25px auto;
+  background-color: white;
+  padding: 50px;
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 25px;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline maroon;
+  color: black;
+  text-align: center;
+}
+
+h1:hover {
+  color: navy;
+}
+
+a:hover {
+  color: maroon;
+}
+
+a {
+  color: navy;
+}
+
+h2 {
+  margin-top: 25px;
+  color: maroon;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+  text-align: center;
+}
